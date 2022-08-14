@@ -5,7 +5,6 @@
 h1{
  font-family:'Hind', sans-serif;
  text-align:center;
- font-size:38px;
  font-weight:300;
 }
 
@@ -18,3 +17,61 @@ body{
  margin-top:0px;
 }
 
+@media (max-width:575.99px){
+
+ /* New created breakpoint. */
+ 
+}
+
+@media (max-width:575px){
+
+ /* Heading */
+ h1{
+  transform:translatex(0px) translatey(0px);
+ }
+ 
+}
+
+@media (min-width:476px){
+
+ /* Iframe */
+ h1 iframe{
+  position:relative;
+  left:-14px;
+ }
+ 
+}
+
+@media (min-width:502px){
+
+ /* Iframe */
+ h1 iframe{
+  display:inline-block;
+ }
+ 
+}
+
+@media (min-width:475.99px){
+
+ /* Heading */
+ h1{
+  font-size:46px !important;
+ }
+ 
+}
+
+@media (min-width:575.99px){
+
+ /* New created breakpoint. */
+ 
+}
+
+@media (min-width:476.997px){
+
+ /* Iframe */
+ h1 iframe{
+  position:relative !important;
+  top:-12px !important;
+ }
+ 
+}
