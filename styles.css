@@ -1,0 +1,20 @@
+/* Import Google Fonts */
+@import url("//fonts.googleapis.com/css2?family=Hind:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+/* Heading */
+h1{
+ font-family:'Hind', sans-serif;
+ text-align:center;
+ font-size:38px;
+ font-weight:300;
+}
+
+/* Body */
+body{
+ background-image:url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNTc5fDB8MXxzZWFyY2h8MTB8fHNreXxlbnwwfHx8fDE2NjA0NDc4MTQ&ixlib=rb-1.2.1&q=80&w=2560");
+ font-family:'Hind', sans-serif;
+ color:#35212f;
+ font-weight:300;
+ margin-top:0px;
+}
+
