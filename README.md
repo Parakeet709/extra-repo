@@ -1,2 +1,1 @@
-# kiwi-os-scratch
-An scratch embed of Kiwi OS.
+scratch extensions and kiwi OS 2
